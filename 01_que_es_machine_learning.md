@@ -18,17 +18,9 @@ En comparación con algunos otros campos como las Matemáticas o la Física que 
 - El conocimiento derivado de estos datos debe actualizarse constantemente porque los datos en sí cambian constantemente.
 - La detección y la actuación tienen que ocurrir en tiempo real con alta precisión.
 
-
-
-
 ## Tipos de Inteligencia Artificial
 
 - Inteligencia Artificial Debil: Solo pueden hacer **un** objetivo. No tienen decision propia.
 - Inteligencia Artificial Fuerte: Puede hacer **varios** objetivos.
 - Super Inteligencia Artificial: No existe. Terminator :v.
-
-
-
-
-
 
