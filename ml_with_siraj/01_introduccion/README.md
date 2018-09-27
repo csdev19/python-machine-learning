@@ -19,6 +19,8 @@ Los paquetes que vamos a usar y obviamente el script. En este caso tratare de de
 
 Bueno segun parece solo usaremos **scikit-learn** asi que pondre el como se instala. Y lo recomendable como siempre seria usar ambientes virtuales y ya tengo un repo acerca de eso asi que ni me esforzare en explicar que es.
 
+En caso de fallas entrar a este [link](https://stackoverflow.com/questions/46113732/modulenotfounderror-no-module-named-sklearn) a mi me sirvio
+
 ```console
 pip install scikit-learn # actualizacion si no compila porque no encuentra sklearn usa el -U
 
@@ -30,6 +32,7 @@ pip install scikit-learn # actualizacion si no compila porque no encuentra sklea
 pip install -U scikit-learn
 # pero en este caso no lo usaremos -U es para actualizar (upgrade)
 ```
+
 
 Ahora veremos la parte del script. En caso de ser muy largo sera puesto en un archivo aparte en caso de no serlo sera incrustado gracias al MD.
 Dado que el codigo es un poco corto vamos a mostrarlo todo y luego lo explicaremos.
